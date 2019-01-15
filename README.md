@@ -10,11 +10,11 @@ selon le format suivant:
    - un espace pour séparer les mesures prisent à un temps donné qui doivent être affichées par des courbes différentes
    - une nouvelle ligne pour séparer les différentes prises de mesures à des temps différents
    
-Exemple:
-123  609
-125  690
-138  700
-...  ...
+Exemple:  
+123  609  
+125  69  
+138  700  
+...  ...  
 
 Deux courbes seront donc affichées à l'écran.
 
